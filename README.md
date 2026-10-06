@@ -1,11 +1,11 @@
 <div align="center">
 
-<!-- Moving Wave Banner Header (JARVIS/FRIDAY Electric Cyan) -->
+<!-- Moving Wave Banner Header (JARVIS Arc-Reactor Electric Cyan Gradient) -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00E5FF&height=200&section=header&text=Kavati%20John%20Shreyan&fontSize=42&fontColor=0d1117&fontAlignY=38" width="100%"/>
 
 <br/>
 
-<!-- Holographic Typing SVG Banner -->
+<!-- F.R.I.D.A.Y. Holographic Typing SVG Banner -->
 <a href="https://github.com/KAVATIJOHNSHREYAN">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=23&duration=3000&pause=1000&color=00E5FF&center=true&vcenter=true&width=750&lines=QUANTUM+WAVE+SYSTEMS+ONLINE;AI+ENGINEER+%7C+FULL-STACK+AI+DEVELOPER;LLM+ARCHITECT+%26+RAG+KNOWLEDGE+PIPELINES;MULTIMODAL+ENTERPRISE+AI+SYSTEMS;CSE+(AI+%26+COMPUTATIONAL+INTELLIGENCE)" alt="FRIDAY Typing Header" />
 </a>
@@ -23,7 +23,7 @@
   </a>
 </p>
 
-<!-- PROMINENT F.R.I.D.A.Y. AI BUTTON AT TOP -->
+<!-- PROMINENT F.R.I.D.A.Y. AI STANDALONE WEB TERMINAL BUTTON -->
 <p align="center">
   <a href="https://kavatijohnshreyan.github.io/KAVATIJOHNSHREYAN/" target="_blank">
     <img src="https://img.shields.io/badge/⚡_LAUNCH_F.R.I.D.A.Y._AI_TERMINAL-00E5FF?style=for-the-badge&logo=probot&logoColor=black&labelColor=0d1117" alt="Launch FRIDAY AI Terminal" />
@@ -63,7 +63,7 @@
 * **Primary Domain:** AI Engineering, Generative AI Systems, RAG Architectures, Autonomous Multi-Agent Workflows, High-Speed Backend Systems.
 * **Education & Institution:** CSE (AI & Computational Intelligence) at KL University.
 * **Core Philosophy:** Bridging probabilistic LLM intelligence with deterministic, scalable enterprise software.
-* **Contact Channel:** [`2400033326cse2@gmail.com`](mailto:2400033326cse2@gmail.com)
+* **Contact Channel:** [`2400033326cse2@gmail.com`](mailto:2400033326cse2@gmail.com) | [**LinkedIn Profile**](https://www.linkedin.com/in/kavati-john-shreyan-956a35366/)
 
 </details>
 
@@ -88,7 +88,7 @@
 
 > *"F.R.I.D.A.Y. System Analysis for AetherMind Genesis:"*
 
-* **Overview:** Autonomous Enterprise Software Blueprint Generator.
+* **Overview:** Autonomous Enterprise Software Architecture Generator.
 * **Key Features:**
   * Accepts natural language system requirements and outputs full software architecture.
   * Auto-generates database relational schemas, REST API contracts, and JWT authentication flows.
@@ -326,11 +326,11 @@ Last_Updated: 2026-10-06 02:26:41 UTC [Automated via GitHub Actions]
 
 ---
 
-## 🤖 F.R.I.D.A.Y. // Tactical Interactive AI Assistant
+## 🤖 F.R.I.D.A.Y. // Tactical Interactive AI Web Terminal
 
 <div align="center">
 
-> *"Greetings, boss. I am **F.R.I.D.A.Y.**, Shreyan's tactical AI assistant. Have a question about his technical stack, RAG systems, project architectures, or collaboration?"*
+> *"Greetings, boss. I am **F.R.I.D.A.Y.**, Shreyan's tactical AI assistant. Launch the full-screen interactive web terminal to chat live with voice output!"*
 
 <br/>
 
@@ -339,7 +339,7 @@ Last_Updated: 2026-10-06 02:26:41 UTC [Automated via GitHub Actions]
 </a>
 
 <p align="center">
-  <i>Click the button above to submit an issue query. F.R.I.D.A.Y. will analyze and respond automatically!</i>
+  <i>Click the button above to open F.R.I.D.A.Y. in a full-screen interactive web application with voice responses!</i>
 </p>
 
 </div>
