@@ -25,7 +25,7 @@
 
 <!-- PROMINENT F.R.I.D.A.Y. AI BUTTON AT TOP -->
 <p align="center">
-  <a href="https://kavatijohnshreyan.github.io/KAVATIJOHNSHREYAN/">
+  <a href="https://kavatijohnshreyan.github.io/" target="_blank">
     <img src="https://img.shields.io/badge/⚡_LAUNCH_F.R.I.D.A.Y._AI_TERMINAL-00E5FF?style=for-the-badge&logo=probot&logoColor=black&labelColor=0d1117" alt="Launch FRIDAY AI Terminal" />
   </a>
 </p>
@@ -334,7 +334,7 @@ Last_Updated: 2026-10-06 02:26:41 UTC [Automated via GitHub Actions]
 
 <br/>
 
-<a href="https://kavatijohnshreyan.github.io/KAVATIJOHNSHREYAN/">
+<a href="https://kavatijohnshreyan.github.io/" target="_blank">
   <img src="https://img.shields.io/badge/⚡_LAUNCH_F.R.I.D.A.Y._AI_TERMINAL-00E5FF?style=for-the-badge&logo=probot&logoColor=black&labelColor=0d1117" alt="Launch FRIDAY AI Terminal" />
 </a>
 
