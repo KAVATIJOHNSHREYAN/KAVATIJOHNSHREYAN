@@ -20,7 +20,7 @@
 
 ---
 
-### ⚡ `JARVIS.SYS` // EXECUTIVE PROTOCOL OVERVIEW
+### ⚡ `F.R.I.D.A.Y.SYS` // EXECUTIVE PROTOCOL OVERVIEW
 
 ```gdb
 [STATUS]: ONLINE | LOCATION: HYDERABAD, INDIA | FOCUS: GENAI & ENTERPRISE LLM ARCHITECTURES
@@ -218,6 +218,26 @@ Current_Motto: "Code with precision, innovate with AI, scale without limits."
 Last_Updated: 2026-10-06 02:28:59 UTC [Automated via GitHub Actions]
 ```
 <!-- AI_QUOTE_END -->
+
+---
+
+## 🤖 F.R.I.D.A.Y. // Tactical Interactive AI Assistant
+
+<div align="center">
+
+> *"Greetings, boss. I am **F.R.I.D.A.Y.**, Shreyan's tactical AI assistant. Have a question about his technical stack, RAG systems, project architectures, or collaboration?"*
+
+<br/>
+
+<a href="https://github.com/KAVATIJOHNSHREYAN/KAVATIJOHNSHREYAN/issues/new?title=Ask+FRIDAY:+[Your+Question+Here]&labels=ask-friday&body=Ask+F.R.I.D.A.Y.+anything+about+Shreyan%27s+projects,+skills,+or+experience!">
+  <img src="https://img.shields.io/badge/💬_Ask_F.R.I.D.A.Y._a_Question-00E5FF?style=for-the-badge&logo=probot&logoColor=black&labelColor=0d1117" alt="Ask FRIDAY" />
+</a>
+
+<p align="center">
+  <i>Click the button above to submit an issue query. F.R.I.D.A.Y. will analyze and respond automatically!</i>
+</p>
+
+</div>
 
 ---
 
