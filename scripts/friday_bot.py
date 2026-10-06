@@ -71,6 +71,7 @@ Full Context & Profile Data for Kavati John Shreyan:
 - Role: AI Engineer | Full Stack AI Developer | GenAI Developer | CSE (AI & Computational Intelligence).
 - Location: Hyderabad, India.
 - Email: 2400033326cse2@gmail.com
+- LinkedIn: https://www.linkedin.com/in/kavati-john-shreyan-956a35366/
 - Main Focus: Enterprise LLM Systems, RAG Pipelines, Autonomous AI Agents, Multimodal AI, Scalable Backend Services.
 - Featured Projects:
   1. AetherMind Multimodal AI

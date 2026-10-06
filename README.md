@@ -356,7 +356,7 @@ Last_Updated: 2026-10-06 02:26:41 UTC [Automated via GitHub Actions]
 <a href="mailto:2400033326cse2@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117&color=00E5FF" alt="Email" />
 </a>
-<a href="https://linkedin.com/in/KAVATIJOHNSHREYAN">
+<a href="https://www.linkedin.com/in/kavati-john-shreyan-956a35366/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117&color=00E5FF" alt="LinkedIn" />
 </a>
 

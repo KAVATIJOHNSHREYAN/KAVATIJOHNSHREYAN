@@ -4,6 +4,7 @@ const SHREYAN_KNOWLEDGE = {
   role: "AI Engineer | Full Stack AI Developer | GenAI Developer | CSE (AI & Computational Intelligence)",
   location: "Hyderabad, India",
   email: "2400033326cse2@gmail.com",
+  linkedin: "https://www.linkedin.com/in/kavati-john-shreyan-956a35366/",
   skills: [
     "Artificial Intelligence (AI)", "Computational Intelligence", "Generative AI", "Large Language Models (LLMs)",
     "Retrieval-Augmented Generation (RAG)", "Prompt Engineering", "AI Agents", "Multimodal AI", "Machine Learning",
@@ -172,8 +173,8 @@ function generateFridayResponse(query) {
     return `Boss, Shreyan specializes in:<br/><br/>🤖 <strong>Generative AI & LLMs:</strong> LLM Systems, RAG Pipelines, Autonomous AI Agents, Prompt Engineering.<br/>💻 <strong>Full Stack & Backend:</strong> Python, TypeScript, React, Next.js, FastAPI, Node.js.<br/>⚙️ <strong>Databases & Cloud:</strong> MySQL, SQLite, Firebase, AWS, GCP, JWT.`;
   }
 
-  if (q.includes("contact") || q.includes("email") || q.includes("hire") || q.includes("reach")) {
-    return `You can connect directly with Shreyan via email at:<br/>✉️ <strong><a href="mailto:${SHREYAN_KNOWLEDGE.email}" style="color:#00e5ff;">${SHREYAN_KNOWLEDGE.email}</a></strong><br/><br/>Or inspect his live work on <strong>GitHub: <a href="https://github.com/KAVATIJOHNSHREYAN" target="_blank" style="color:#00e5ff;">KAVATIJOHNSHREYAN</a></strong>.`;
+  if (q.includes("contact") || q.includes("email") || q.includes("linkedin") || q.includes("hire") || q.includes("reach")) {
+    return `You can connect directly with Shreyan via:<br/>✉️ Email: <strong><a href="mailto:${SHREYAN_KNOWLEDGE.email}" style="color:#00e5ff;">${SHREYAN_KNOWLEDGE.email}</a></strong><br/>💼 LinkedIn: <strong><a href="${SHREYAN_KNOWLEDGE.linkedin}" target="_blank" style="color:#00e5ff;">KAVATI JOHN SHREYAN</a></strong><br/>🐙 GitHub: <strong><a href="https://github.com/KAVATIJOHNSHREYAN" target="_blank" style="color:#00e5ff;">KAVATIJOHNSHREYAN</a></strong>`;
   }
 
   if (q.includes("project") || q.includes("built") || q.includes("work")) {
