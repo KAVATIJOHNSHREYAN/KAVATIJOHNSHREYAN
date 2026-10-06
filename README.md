@@ -25,8 +25,8 @@
 
 <!-- PROMINENT F.R.I.D.A.Y. AI BUTTON AT TOP -->
 <p align="center">
-  <a href="https://github.com/KAVATIJOHNSHREYAN/KAVATIJOHNSHREYAN/issues/new?title=Ask+FRIDAY:+Can+you+tell+me+about+Shreyan%27s+projects+and+skills%3F&body=Hi+F.R.I.D.A.Y.,+please+give+me+a+summary+of+Shreyan%27s+featured+projects,+live+GitHub+repositories,+and+AI+engineering+skills.">
-    <img src="https://img.shields.io/badge/🤖_ASK_F.R.I.D.A.Y._AI_ANYTHING-00E5FF?style=for-the-badge&logo=probot&logoColor=black&labelColor=0d1117" alt="Ask FRIDAY AI" />
+  <a href="https://kavatijohnshreyan.github.io/KAVATIJOHNSHREYAN/">
+    <img src="https://img.shields.io/badge/⚡_LAUNCH_F.R.I.D.A.Y._AI_TERMINAL-00E5FF?style=for-the-badge&logo=probot&logoColor=black&labelColor=0d1117" alt="Launch FRIDAY AI Terminal" />
   </a>
 </p>
 
@@ -334,8 +334,8 @@ Last_Updated: 2026-10-06 02:26:41 UTC [Automated via GitHub Actions]
 
 <br/>
 
-<a href="https://github.com/KAVATIJOHNSHREYAN/KAVATIJOHNSHREYAN/issues/new?title=Ask+FRIDAY:+Tell+me+about+Shreyan%27s+AI+experience&body=Hi+F.R.I.D.A.Y.,+what+are+Shreyan%27s+core+AI+engineering+skills,+RAG+experience,+and+projects%3F">
-  <img src="https://img.shields.io/badge/💬_Ask_F.R.I.D.A.Y._a_Question-00E5FF?style=for-the-badge&logo=probot&logoColor=black&labelColor=0d1117" alt="Ask FRIDAY" />
+<a href="https://kavatijohnshreyan.github.io/KAVATIJOHNSHREYAN/">
+  <img src="https://img.shields.io/badge/⚡_LAUNCH_F.R.I.D.A.Y._AI_TERMINAL-00E5FF?style=for-the-badge&logo=probot&logoColor=black&labelColor=0d1117" alt="Launch FRIDAY AI Terminal" />
 </a>
 
 <p align="center">

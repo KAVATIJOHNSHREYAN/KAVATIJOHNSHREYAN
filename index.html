@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>F.R.I.D.A.Y. // Tactical AI Assistant - Kavati John Shreyan</title>
+  <link rel="stylesheet" href="style.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;600;800;900&family=Rajdhani:wght@400;500;600;700&family=Share+Tech+Mono&display=swap" rel="stylesheet">
+</head>
+<body>
+  <!-- HUD Background Layer -->
+  <div class="hud-overlay"></div>
+  <div class="grid-background"></div>
+
+  <div class="container">
+    <!-- Top HUD Bar -->
+    <header class="hud-header">
+      <div class="header-left">
+        <div class="arc-reactor-icon">
+          <div class="core-ring"></div>
+          <div class="inner-pulse"></div>
+        </div>
+        <div>
+          <h1 class="hud-title">F.R.I.D.A.Y. <span>// OS V3.4</span></h1>
+          <p class="hud-subtitle">TACTICAL AI ASSISTANT • KAVATI JOHN SHREYAN</p>
+        </div>
+      </div>
+
+      <div class="header-right">
+        <div class="status-badge">
+          <span class="status-dot green-pulse"></span>
+          <span id="statusText">SYSTEM ONLINE</span>
+        </div>
+        <button id="voiceToggleBtn" class="hud-btn voice-btn" title="Toggle Voice Output">
+          <span class="btn-icon">🔊</span>
+          <span class="btn-text">VOICE ON</span>
+        </button>
+      </div>
+    </header>
+
+    <!-- Main Workspace Grid -->
+    <main class="hud-main">
+      <!-- Left Cyber Sidebar: Developer Dossier -->
+      <aside class="hud-sidebar">
+        <div class="hud-card">
+          <div class="card-header">
+            <span class="card-icon">⚡</span>
+            <h2>DEVELOPER DOSSIER</h2>
+          </div>
+          <div class="profile-meta">
+            <div class="profile-name">KAVATI JOHN SHREYAN</div>
+            <div class="profile-role">AI Engineer | GenAI Specialist</div>
+            <div class="profile-location">📍 Hyderabad, India</div>
+            <div class="profile-email">✉️ 2400033326cse2@gmail.com</div>
+          </div>
+        </div>
+
+        <div class="hud-card">
+          <div class="card-header">
+            <span class="card-icon">🚀</span>
+            <h2>FEATURED PROJECTS</h2>
+          </div>
+          <ul class="project-list">
+            <li class="project-item" data-prompt="Tell me about AetherMind Multimodal AI">
+              <span class="p-icon">🤖</span>
+              <div>
+                <div class="p-title">AetherMind Multimodal AI</div>
+                <div class="p-sub">Multi-LLM RAG & Document Intelligence</div>
+              </div>
+            </li>
+            <li class="project-item" data-prompt="Tell me about AetherMind Genesis">
+              <span class="p-icon">🧠</span>
+              <div>
+                <div class="p-title">AetherMind Genesis</div>
+                <div class="p-sub">Autonomous Architecture Generator</div>
+              </div>
+            </li>
+            <li class="project-item" data-prompt="Tell me about AetherMind EDU">
+              <span class="p-icon">📚</span>
+              <div>
+                <div class="p-title">AetherMind EDU</div>
+                <div class="p-sub">Intelligent Learning Platform</div>
+              </div>
+            </li>
+            <li class="project-item" data-prompt="Tell me about Smart Resource & Timetable Optimizer">
+              <span class="p-icon">📅</span>
+              <div>
+                <div class="p-title">Smart Timetable Optimizer</div>
+                <div class="p-sub">AI Resource Scheduling Engine</div>
+              </div>
+            </li>
+            <li class="project-item" data-prompt="Tell me about KL University Attendance Calculator">
+              <span class="p-icon">🎓</span>
+              <div>
+                <div class="p-title">Attendance Calculator</div>
+                <div class="p-sub">Open-Source UX Redesign</div>
+              </div>
+            </li>
+          </ul>
+        </div>
+      </aside>
+
+      <!-- Center HUD Terminal Chat Stream -->
+      <section class="hud-chat-section">
+        <div class="chat-header">
+          <div class="terminal-dots">
+            <span class="dot red"></span>
+            <span class="dot yellow"></span>
+            <span class="dot green"></span>
+          </div>
+          <div class="terminal-title">LIVE TACTICAL STREAM // F.R.I.D.A.Y. KNOWLEDGE BASE</div>
+        </div>
+
+        <!-- Chat Stream Messages -->
+        <div class="chat-stream" id="chatStream">
+          <!-- Initial Bot Welcome Message -->
+          <div class="chat-message friday-message">
+            <div class="msg-avatar">🤖</div>
+            <div class="msg-content">
+              <div class="msg-author">F.R.I.D.A.Y. <span class="time">JUST NOW</span></div>
+              <div class="msg-body">
+                Greetings, boss! I am <strong>F.R.I.D.A.Y.</strong>, Kavati John Shreyan's tactical AI assistant.<br/><br/>
+                I am connected to Shreyan's live GitHub repositories, enterprise project blueprints, and technical skill matrix. Ask me anything about his <strong>Generative AI projects, RAG architectures, full-stack work, or contact info!</strong>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Quick Prompt Chips -->
+        <div class="chip-container">
+          <button class="chip-btn" data-prompt="What are Shreyan's main AI skills?">🧠 Top AI Skills</button>
+          <button class="chip-btn" data-prompt="Summarize Shreyan's top featured projects">🚀 Featured Projects</button>
+          <button class="chip-btn" data-prompt="Tell me about AetherMind Multimodal AI">🤖 AetherMind AI</button>
+          <button class="chip-btn" data-prompt="How can I contact Shreyan for collaboration?">📬 Contact Shreyan</button>
+        </div>
+
+        <!-- Input Control Box -->
+        <div class="input-container">
+          <input type="text" id="userInput" placeholder="Ask F.R.I.D.A.Y. anything about Shreyan's projects or skills..." autocomplete="off" />
+          <button id="sendBtn" class="hud-btn send-btn">
+            <span>TRANSMIT</span>
+            <span class="send-icon">➤</span>
+          </button>
+        </div>
+      </section>
+    </main>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>
