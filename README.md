@@ -26,7 +26,11 @@
 [STATUS]: ONLINE | LOCATION: HYDERABAD, INDIA | FOCUS: GENAI & ENTERPRISE LLM ARCHITECTURES
 ```
 
-> **Greetings, Traveler!** I am **Kavati John Shreyan**, an **AI Engineer & Full Stack AI Developer** specializing in **Computational Intelligence and Generative AI**. I engineer autonomous AI agents, enterprise RAG pipelines, multimodal operating environments, and scalable full-stack applications that transform complex data into intelligent action.
+> **👋 Greetings, Traveler!**
+>
+> I'm **Kavati John Shreyan**, an **AI Engineer and Full-Stack AI Developer** passionate about shaping the future of intelligent software.
+>
+> I specialize in **Artificial Intelligence, Computational Intelligence, Generative AI, Large Language Models (LLMs), AI Agents, Retrieval-Augmented Generation (RAG)**, and **enterprise-scale multimodal platforms**. My work focuses on architecting secure, scalable, and production-ready AI ecosystems that transform ideas into intelligent digital experiences.
 
 ---
 
