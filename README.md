@@ -1,29 +1,38 @@
 <div align="center">
 
-<!-- Typing SVG Header -->
+<!-- Moving Wave Banner Header (Holographic Teal to Indigo to Electric Magenta) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,06B6D4,6366F1,F43F5E,06B6D4&height=200&section=header&text=Kavati%20John%20Shreyan&fontSize=42&fontColor=ffffff&fontAlignY=38" width="100%"/>
+
+<br/>
+
+<!-- Holographic Typing SVG Banner -->
 <a href="https://github.com/KAVATIJOHNSHREYAN">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&duration=3000&pause=1000&color=00E5FF&center=true&vcenter=true&width=750&lines=SYSTEM+INITIALIZED...+WELCOME+TO+MY+PROFILE;AI+ENGINEER+%7C+GENAI+DEVELOPER;LLM+ARCHITECT+%26+RAG+PIPELINE+SPECIALIST;BUILDING+ENTERPRISE+MULTIMODAL+AI+SYSTEMS;CSE+(AI+%26+COMPUTATIONAL+INTELLIGENCE)" alt="Typing Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=23&duration=3000&pause=1000&color=0891B2&center=true&vcenter=true&width=750&lines=QUANTUM+WAVE+SYSTEMS+ONLINE;AI+ENGINEER+%7C+FULL-STACK+AI+DEVELOPER;LLM+ARCHITECT+%26+RAG+KNOWLEDGE+PIPELINES;MULTIMODAL+ENTERPRISE+AI+SYSTEMS;CSE+(AI+%26+COMPUTATIONAL+INTELLIGENCE)" alt="Holographic Typing Header" />
 </a>
 
 <br/>
 
-<!-- Visitor Counter & Social Badges -->
+<!-- Visitor Counter & Social Badges (Light Modern Palette) -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=KAVATIJOHNSHREYAN&color=00E5FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=KAVATIJOHNSHREYAN&color=0891B2&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
   <a href="https://github.com/KAVATIJOHNSHREYAN?tab=followers">
-    <img src="https://img.shields.io/github/followers/KAVATIJOHNSHREYAN?style=for-the-badge&color=00E5FF&labelColor=0d1117&logo=github" alt="GitHub Followers" />
+    <img src="https://img.shields.io/github/followers/KAVATIJOHNSHREYAN?style=for-the-badge&color=E11D48&labelColor=ffffff&logo=github&logoColor=0891B2" alt="GitHub Followers" />
   </a>
   <a href="mailto:2400033326cse2@gmail.com">
-    <img src="https://img.shields.io/badge/Email-2400033326cse2%40gmail.com-00E5FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-2400033326cse2%40gmail.com-0891B2?style=for-the-badge&logo=gmail&logoColor=E11D48&labelColor=ffffff" alt="Email" />
   </a>
 </p>
 
+</div>
+
 ---
 
-### ⚡ `F.R.I.D.A.Y.SYS` // EXECUTIVE PROTOCOL OVERVIEW
+<div align="center">
+
+### ⚡ `F.R.I.D.A.Y.SYS` // QUANTUM PROTOCOL OVERVIEW
 
 ```gdb
-[STATUS]: ONLINE | LOCATION: HYDERABAD, INDIA | FOCUS: GENAI & ENTERPRISE LLM ARCHITECTURES
+[STATUS]: ONLINE | LOCATION: HYDERABAD, INDIA | FOCUS: GENAI & MULTIMODAL RAG ARCHITECTURES
 ```
 
 > **👋 Greetings, Traveler!**
@@ -32,32 +41,30 @@
 >
 > I specialize in **Artificial Intelligence, Computational Intelligence, Generative AI, Large Language Models (LLMs), AI Agents, Retrieval-Augmented Generation (RAG)**, and **enterprise-scale multimodal platforms**. My work focuses on architecting secure, scalable, and production-ready AI ecosystems that transform ideas into intelligent digital experiences.
 
----
-
 </div>
 
-<br/>
+---
 
-## 🧬 System Architecture & Core Expertise
+## 🌊 Quantum Architecture & Core Expertise
 
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3>🤖 Generative AI & Autonomous Agents</h3>
+      <h3>🤖 Generative AI & Autonomous Systems</h3>
       <ul>
-        <li><b>LLM Systems & RAG:</b> Designing context-aware Retrieval-Augmented Generation architectures with vector stores and semantic search.</li>
-        <li><b>Autonomous AI Agents:</b> Multi-agent orchestration, function calling, tool use, and cognitive workflows.</li>
-        <li><b>Multimodal Systems:</b> Integrating text, document intelligence, vision, and audio for enterprise AI tools.</li>
-        <li><b>Prompt Engineering & Fine-tuning:</b> Advanced prompt optimization, system instruction tuning, and structured outputs.</li>
+        <li><b>LLM Systems & RAG Pipelines:</b> Context-aware Retrieval-Augmented Generation architectures with high-speed vector indices and semantic search.</li>
+        <li><b>Autonomous AI Agents:</b> Multi-agent orchestration, tool binding, deterministic routing, and cognitive workflows.</li>
+        <li><b>Multimodal Platforms:</b> Integrating text, document intelligence, vision models, and voice streams for enterprise AI.</li>
+        <li><b>Prompt Optimization:</b> Advanced prompt engineering, system instruction tuning, and structured JSON output contracts.</li>
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3>💻 Full Stack AI & Cloud Backend</h3>
+      <h3>💻 Full Stack Web & Cloud Backend</h3>
       <ul>
-        <li><b>Scalable Microservices:</b> High-throughput APIs built with Python, FastAPI, Node.js, and RESTful standards.</li>
-        <li><b>Modern Frontend UX:</b> Reactive, glassmorphic interfaces with React, Next.js, and Tailwind CSS.</li>
-        <li><b>Database Engineering:</b> High-performance relational & NoSQL schemas with MySQL, SQLite, and Firebase.</li>
-        <li><b>Cloud & DevOps:</b> Containerized deployments, AWS/GCP cloud services, JWT security, and CI/CD pipelines.</li>
+        <li><b>Scalable Microservices:</b> High-performance RESTful APIs engineered with Python, FastAPI, Node.js, and clean architecture.</li>
+        <li><b>Reactive Frontend UX:</b> Luminous, glassmorphic web applications built with React, Next.js, and Tailwind CSS.</li>
+        <li><b>Database Engineering:</b> High-speed data schemas with MySQL, SQLite, and Firebase real-time infrastructure.</li>
+        <li><b>Cloud & Security:</b> Containerized cloud deployments on AWS and GCP with JWT security standards.</li>
       </ul>
     </td>
   </tr>
@@ -78,9 +85,8 @@
   <img src="https://img.shields.io/badge/OpenAI_APIs-412991?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
   <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white" />
-  <img src="https://img.shields.io/badge/LlamaIndex-000000?style=for-the-badge&logo=apacherat&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAG_Pipelines-00E5FF?style=for-the-badge&logo=diagramsdotnet&logoColor=black" />
-  <img src="https://img.shields.io/badge/Vector_Databases-FF4081?style=for-the-badge&logo=database&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG_Pipelines-0891B2?style=for-the-badge&logo=diagramsdotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vector_DBs-E11D48?style=for-the-badge&logo=database&logoColor=white" />
 </p>
 
 ### 💻 Full Stack Web Development
@@ -104,7 +110,7 @@
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=00E5FF" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=0891B2" />
 </p>
 
 </div>
@@ -184,24 +190,22 @@
 
 ---
 
-## 📊 Live System Analytics & GitHub Metrics
+## 📊 Live Metrics & GitHub Analytics
 
 <div align="center">
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KAVATIJOHNSHREYAN&show_icons=true&theme=synthwave&bg_color=0d1117&title_color=00E5FF&text_color=e6edf3&icon_color=00E5FF&border_color=00E5FF&hide_border=false" alt="Kavati John Shreyan's GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KAVATIJOHNSHREYAN&layout=compact&theme=synthwave&bg_color=0d1117&title_color=00E5FF&text_color=e6edf3&border_color=00E5FF&hide_border=false" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KAVATIJOHNSHREYAN&show_icons=true&theme=nord&bg_color=ffffff&title_color=0891B2&text_color=334155&icon_color=E11D48&border_color=0891B2&hide_border=false" alt="Kavati John Shreyan's GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KAVATIJOHNSHREYAN&layout=compact&theme=nord&bg_color=ffffff&title_color=0891B2&text_color=334155&border_color=0891B2&hide_border=false" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KAVATIJOHNSHREYAN&theme=dark&background=0d1117&border=00E5FF&stroke=00E5FF&alarm=00E5FF&fire=00E5FF&ring=00E5FF&currStreakNum=00E5FF&sideNums=e6edf3&sideTitle=00E5FF&dates=8b949e" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KAVATIJOHNSHREYAN&theme=light&background=ffffff&border=0891B2&stroke=0891B2&fire=E11D48&ring=0891B2&currStreakNum=0891B2&sideNums=334155&sideTitle=0891B2&dates=64748b" alt="GitHub Streak" />
 </p>
 
-### 🐍 Contribution Graph Matrix
+### 🐍 Contribution Matrix
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KAVATIJOHNSHREYAN/KAVATIJOHNSHREYAN/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KAVATIJOHNSHREYAN/KAVATIJOHNSHREYAN/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/KAVATIJOHNSHREYAN/KAVATIJOHNSHREYAN/output/github-contribution-grid-snake-dark.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/KAVATIJOHNSHREYAN/KAVATIJOHNSHREYAN/output/github-contribution-grid-snake.svg">
 </picture>
 
 </div>
@@ -211,7 +215,7 @@
 ## 🤖 Dynamic AI Cyber Insights
 
 <!-- AI_INSIGHT_START -->
-> ⚡ **Daily AI Architecture Thought:** *"Optimizing latency in Generative AI applications requires intelligent caching, speculative execution, and stream optimization."*
+> ⚡ **Daily AI Architecture Thought:** *"The future of software architecture is hybrid: deterministic control flows layered with probabilistic AI reasoning."*
 <!-- AI_INSIGHT_END -->
 
 <!-- AI_QUOTE_START -->
@@ -219,7 +223,7 @@
 System_Status: Operational
 Target_Mission: Building Next-Gen Multimodal AI Systems
 Current_Motto: "Code with precision, innovate with AI, scale without limits."
-Last_Updated: 2026-10-06 02:31:51 UTC [Automated via GitHub Actions]
+Last_Updated: 2026-10-06 02:26:41 UTC [Automated via GitHub Actions]
 ```
 <!-- AI_QUOTE_END -->
 
@@ -234,7 +238,7 @@ Last_Updated: 2026-10-06 02:31:51 UTC [Automated via GitHub Actions]
 <br/>
 
 <a href="https://github.com/KAVATIJOHNSHREYAN/KAVATIJOHNSHREYAN/issues/new?title=Ask+FRIDAY:+[Your+Question+Here]&labels=ask-friday&body=Ask+F.R.I.D.A.Y.+anything+about+Shreyan%27s+projects,+skills,+or+experience!">
-  <img src="https://img.shields.io/badge/💬_Ask_F.R.I.D.A.Y._a_Question-00E5FF?style=for-the-badge&logo=probot&logoColor=black&labelColor=0d1117" alt="Ask FRIDAY" />
+  <img src="https://img.shields.io/badge/💬_Ask_F.R.I.D.A.Y._a_Question-0891B2?style=for-the-badge&logo=probot&logoColor=white&labelColor=1e293b" alt="Ask FRIDAY" />
 </a>
 
 <p align="center">
@@ -250,17 +254,18 @@ Last_Updated: 2026-10-06 02:31:51 UTC [Automated via GitHub Actions]
 <div align="center">
 
 <a href="https://github.com/KAVATIJOHNSHREYAN">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117&color=00E5FF" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117&color=0891B2" alt="GitHub" />
 </a>
 <a href="mailto:2400033326cse2@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117&color=00E5FF" alt="Email" />
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117&color=E11D48" alt="Email" />
 </a>
 <a href="https://linkedin.com/in/KAVATIJOHNSHREYAN">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117&color=00E5FF" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117&color=0891B2" alt="LinkedIn" />
 </a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00E5FF&height=120&section=footer" width="100%"/>
+<!-- Moving Waving Holographic Footer Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,06B6D4,6366F1,F43F5E,06B6D4&height=140&section=footer" width="100%"/>
 
 </div>
