@@ -1,13 +1,13 @@
 <div align="center">
 
-<!-- Moving Wave Banner Header (JARVIS Arc-Reactor Electric Cyan to Deep Blue Gradient) -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,00E5FF,0072FF,00F2FE,00E5FF&height=200&section=header&text=Kavati%20John%20Shreyan&fontSize=42&fontColor=ffffff&fontAlignY=38" width="100%"/>
+<!-- Moving Wave Banner Header (JARVIS/FRIDAY Electric Cyan) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00E5FF&height=200&section=header&text=Kavati%20John%20Shreyan&fontSize=42&fontColor=0d1117&fontAlignY=38" width="100%"/>
 
 <br/>
 
-<!-- JARVIS Holographic Typing SVG Banner -->
+<!-- Holographic Typing SVG Banner -->
 <a href="https://github.com/KAVATIJOHNSHREYAN">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=23&duration=3000&pause=1000&color=00E5FF&center=true&vcenter=true&width=750&lines=QUANTUM+WAVE+SYSTEMS+ONLINE;AI+ENGINEER+%7C+FULL-STACK+AI+DEVELOPER;LLM+ARCHITECT+%26+RAG+KNOWLEDGE+PIPELINES;MULTIMODAL+ENTERPRISE+AI+SYSTEMS;CSE+(AI+%26+COMPUTATIONAL+INTELLIGENCE)" alt="JARVIS Typing Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=23&duration=3000&pause=1000&color=00E5FF&center=true&vcenter=true&width=750&lines=QUANTUM+WAVE+SYSTEMS+ONLINE;AI+ENGINEER+%7C+FULL-STACK+AI+DEVELOPER;LLM+ARCHITECT+%26+RAG+KNOWLEDGE+PIPELINES;MULTIMODAL+ENTERPRISE+AI+SYSTEMS;CSE+(AI+%26+COMPUTATIONAL+INTELLIGENCE)" alt="FRIDAY Typing Header" />
 </a>
 
 <br/>
@@ -20,6 +20,13 @@
   </a>
   <a href="mailto:2400033326cse2@gmail.com">
     <img src="https://img.shields.io/badge/Email-2400033326cse2%40gmail.com-00E5FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Email" />
+  </a>
+</p>
+
+<!-- PROMINENT F.R.I.D.A.Y. AI BUTTON AT TOP -->
+<p align="center">
+  <a href="https://github.com/KAVATIJOHNSHREYAN/KAVATIJOHNSHREYAN/issues/new?title=Ask+FRIDAY:+[Your+Question+Here]&labels=ask-friday&body=Ask+F.R.I.D.A.Y.+anything+about+Shreyan%27s+projects,+skills,+or+experience!">
+    <img src="https://img.shields.io/badge/🤖_ASK_F.R.I.D.A.Y._AI_ANYTHING-00E5FF?style=for-the-badge&logo=probot&logoColor=black&labelColor=0d1117" alt="Ask FRIDAY AI" />
   </a>
 </p>
 
@@ -42,6 +49,96 @@
 > I specialize in **Artificial Intelligence, Computational Intelligence, Generative AI, Large Language Models (LLMs), AI Agents, Retrieval-Augmented Generation (RAG)**, and **enterprise-scale multimodal platforms**. My work focuses on architecting secure, scalable, and production-ready AI ecosystems that transform ideas into intelligent digital experiences.
 
 </div>
+
+---
+
+## 🤖 F.R.I.D.A.Y. Interactive Dossier & Project Intelligence (Click to Expand Toggles)
+
+<details>
+<summary><b>🔍 🤖 F.R.I.D.A.Y. Briefing: About Kavati John Shreyan & Core Capabilities</b></summary>
+<br/>
+
+> *"Greetings, boss. Here is the full technical briefing on Kavati John Shreyan:"*
+
+* **Primary Domain:** AI Engineering, Generative AI Systems, RAG Architectures, Autonomous Multi-Agent Workflows, High-Speed Backend Systems.
+* **Education & Institution:** CSE (AI & Computational Intelligence) at KL University.
+* **Core Philosophy:** Bridging probabilistic LLM intelligence with deterministic, scalable enterprise software.
+* **Contact Channel:** [`2400033326cse2@gmail.com`](mailto:2400033326cse2@gmail.com)
+
+</details>
+
+<details>
+<summary><b>🚀 🤖 F.R.I.D.A.Y. Project Analysis: AetherMind Multimodal AI</b></summary>
+<br/>
+
+> *"F.R.I.D.A.Y. System Analysis for AetherMind Multimodal AI:"*
+
+* **Overview:** Enterprise-grade Multimodal AI Operating System integrating multiple LLM providers.
+* **Key Features:**
+  * Cognitive routing across LLM providers based on context complexity.
+  * PDF Document Intelligence & high-speed vector RAG pipeline.
+  * Conversational voice interactions, multi-tenant memory retention, and Firebase Auth.
+* **Tech Stack:** Python, FastAPI, React, RAG, OpenAI, Gemini, Firebase.
+
+</details>
+
+<details>
+<summary><b>🧠 🤖 F.R.I.D.A.Y. Project Analysis: AetherMind Genesis</b></summary>
+<br/>
+
+> *"F.R.I.D.A.Y. System Analysis for AetherMind Genesis:"*
+
+* **Overview:** Autonomous Enterprise Software Blueprint Generator.
+* **Key Features:**
+  * Accepts natural language system requirements and outputs full software architecture.
+  * Auto-generates database relational schemas, REST API contracts, and JWT authentication flows.
+  * Recommends cloud deployment roadmaps and infrastructure stack choices.
+* **Tech Stack:** TypeScript, Next.js, Generative AI, Multi-Agent Systems.
+
+</details>
+
+<details>
+<summary><b>📚 🤖 F.R.I.D.A.Y. Project Analysis: AetherMind EDU</b></summary>
+<br/>
+
+> *"F.R.I.D.A.Y. System Analysis for AetherMind EDU:"*
+
+* **Overview:** AI-powered intelligent educational workspace platform.
+* **Key Features:**
+  * Interactive AI study assistant for real-time document summarization.
+  * Automatic flashcard and quiz generator powered by LLMs.
+  * Collaborative student study tools and academic workflow management.
+* **Tech Stack:** Python, FastAPI, Tailwind CSS, Firebase.
+
+</details>
+
+<details>
+<summary><b>📅 🤖 F.R.I.D.A.Y. Project Analysis: Smart Resource & Timetable Optimizer</b></summary>
+<br/>
+
+> *"F.R.I.D.A.Y. System Analysis for Smart Resource & Timetable Optimizer:"*
+
+* **Overview:** University resource allocation and scheduling platform.
+* **Key Features:**
+  * AI-assisted schedule optimization algorithms to resolve classroom & faculty conflicts.
+  * Real-time administrative analytics dashboards and role-based permissions.
+* **Tech Stack:** React, FastAPI, MySQL, Optimization Algorithms.
+
+</details>
+
+<details>
+<summary><b>🎓 🤖 F.R.I.D.A.Y. Project Analysis: KL University Attendance Calculator</b></summary>
+<br/>
+
+> *"F.R.I.D.A.Y. System Analysis for KL University Attendance Calculator:"*
+
+* **Overview:** Open-source contribution focused on enhancing student UX.
+* **Key Features:**
+  * Redesigned UI/UX interface for responsive cross-device performance.
+  * Instant attendance calculation and percentage prediction models.
+* **Tech Stack:** JavaScript, React, Tailwind CSS.
+
+</details>
 
 ---
 
@@ -266,6 +363,6 @@ Last_Updated: 2026-10-06 02:26:41 UTC [Automated via GitHub Actions]
 <br/><br/>
 
 <!-- Moving Waving JARVIS Arc-Cyan Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,00E5FF,0072FF,00F2FE,00E5FF&height=140&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00E5FF&height=140&section=footer" width="100%"/>
 
 </div>
