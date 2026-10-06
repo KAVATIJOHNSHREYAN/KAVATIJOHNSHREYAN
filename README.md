@@ -13,8 +13,8 @@
   <a href="https://github.com/KAVATIJOHNSHREYAN?tab=followers">
     <img src="https://img.shields.io/github/followers/KAVATIJOHNSHREYAN?style=for-the-badge&color=00E5FF&labelColor=0d1117&logo=github" alt="GitHub Followers" />
   </a>
-  <a href="mailto:shreyankavati@gmail.com">
-    <img src="https://img.shields.io/badge/Email-shreyankavati%40gmail.com-00E5FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Email" />
+  <a href="mailto:2400033326cse2@gmail.com">
+    <img src="https://img.shields.io/badge/Email-2400033326cse2%40gmail.com-00E5FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Email" />
   </a>
 </p>
 
@@ -228,7 +228,7 @@ Last_Updated: 2026-10-06 02:26:41 UTC [Automated via GitHub Actions]
 <a href="https://github.com/KAVATIJOHNSHREYAN">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117&color=00E5FF" alt="GitHub" />
 </a>
-<a href="mailto:shreyankavati@gmail.com">
+<a href="mailto:2400033326cse2@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117&color=00E5FF" alt="Email" />
 </a>
 <a href="https://linkedin.com/in/KAVATIJOHNSHREYAN">
